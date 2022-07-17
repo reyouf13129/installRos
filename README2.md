@@ -1,4 +1,5 @@
-## install xubuntu in  Jetson Nano
+# Install ROS2 on Jetson Nano
+## install Xubuntu in  Jetson Nano
 
 #### https://github.com/Discombobulated88/Xubuntu-20.04-L4T-32.3.1/releases/download/v1.0/Xubuntu-20.04-l4t-r32.3.1.tar.tbz2
 
